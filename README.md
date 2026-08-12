@@ -45,7 +45,7 @@
   <thead>
     <tr>
       <th>AI 翻译 Skill</th>
-      <th>网页端 AI 翻译</th>
+      <th>网页端 AI（无Skill）翻译</th>
       <th>Google 机翻</th>
     </tr>
   </thead>

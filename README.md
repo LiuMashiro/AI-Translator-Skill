@@ -43,6 +43,8 @@
 
 ## 实例对比
 
+> 来源：BBC *[Tokenomics: Why making AI pay is tricky](https://www.bbc.com/news/articles/c872r52x7jgo)*
+
 <table>
   <thead>
     <tr>
